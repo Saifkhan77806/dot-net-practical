@@ -1,0 +1,14 @@
+F:\dotnet\MagicDate\MagicDateForm\bin\Debug\net10.0-windows\MagicDateForm.exe
+F:\dotnet\MagicDate\MagicDateForm\bin\Debug\net10.0-windows\MagicDateForm.deps.json
+F:\dotnet\MagicDate\MagicDateForm\bin\Debug\net10.0-windows\MagicDateForm.runtimeconfig.json
+F:\dotnet\MagicDate\MagicDateForm\bin\Debug\net10.0-windows\MagicDateForm.dll
+F:\dotnet\MagicDate\MagicDateForm\bin\Debug\net10.0-windows\MagicDateForm.pdb
+F:\dotnet\MagicDate\MagicDateForm\obj\Debug\net10.0-windows\MagicDateForm.GeneratedMSBuildEditorConfig.editorconfig
+F:\dotnet\MagicDate\MagicDateForm\obj\Debug\net10.0-windows\MagicDateForm.AssemblyInfoInputs.cache
+F:\dotnet\MagicDate\MagicDateForm\obj\Debug\net10.0-windows\MagicDateForm.AssemblyInfo.cs
+F:\dotnet\MagicDate\MagicDateForm\obj\Debug\net10.0-windows\MagicDateForm.csproj.CoreCompileInputs.cache
+F:\dotnet\MagicDate\MagicDateForm\obj\Debug\net10.0-windows\MagicDateForm.dll
+F:\dotnet\MagicDate\MagicDateForm\obj\Debug\net10.0-windows\refint\MagicDateForm.dll
+F:\dotnet\MagicDate\MagicDateForm\obj\Debug\net10.0-windows\MagicDateForm.pdb
+F:\dotnet\MagicDate\MagicDateForm\obj\Debug\net10.0-windows\MagicDateForm.genruntimeconfig.cache
+F:\dotnet\MagicDate\MagicDateForm\obj\Debug\net10.0-windows\ref\MagicDateForm.dll

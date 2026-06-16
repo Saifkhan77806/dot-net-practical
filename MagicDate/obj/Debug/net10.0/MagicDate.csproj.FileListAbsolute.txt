@@ -1,0 +1,14 @@
+F:\dotnet\MagicDate\bin\Debug\net10.0\MagicDate.exe
+F:\dotnet\MagicDate\bin\Debug\net10.0\MagicDate.deps.json
+F:\dotnet\MagicDate\bin\Debug\net10.0\MagicDate.runtimeconfig.json
+F:\dotnet\MagicDate\bin\Debug\net10.0\MagicDate.dll
+F:\dotnet\MagicDate\bin\Debug\net10.0\MagicDate.pdb
+F:\dotnet\MagicDate\obj\Debug\net10.0\MagicDate.GeneratedMSBuildEditorConfig.editorconfig
+F:\dotnet\MagicDate\obj\Debug\net10.0\MagicDate.AssemblyInfoInputs.cache
+F:\dotnet\MagicDate\obj\Debug\net10.0\MagicDate.AssemblyInfo.cs
+F:\dotnet\MagicDate\obj\Debug\net10.0\MagicDate.csproj.CoreCompileInputs.cache
+F:\dotnet\MagicDate\obj\Debug\net10.0\MagicDate.dll
+F:\dotnet\MagicDate\obj\Debug\net10.0\refint\MagicDate.dll
+F:\dotnet\MagicDate\obj\Debug\net10.0\MagicDate.pdb
+F:\dotnet\MagicDate\obj\Debug\net10.0\MagicDate.genruntimeconfig.cache
+F:\dotnet\MagicDate\obj\Debug\net10.0\ref\MagicDate.dll
