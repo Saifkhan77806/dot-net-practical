@@ -1,0 +1,15 @@
+F:\dotnet\CalAge\obj\Debug\net10.0-windows\CalAge.GeneratedMSBuildEditorConfig.editorconfig
+F:\dotnet\CalAge\obj\Debug\net10.0-windows\CalAge.AssemblyInfoInputs.cache
+F:\dotnet\CalAge\obj\Debug\net10.0-windows\CalAge.AssemblyInfo.cs
+F:\dotnet\CalAge\obj\Debug\net10.0-windows\CalAge.csproj.CoreCompileInputs.cache
+F:\dotnet\CalAge\obj\Debug\net10.0-windows\CalAge.sourcelink.json
+F:\dotnet\CalAge\bin\Debug\net10.0-windows\CalAge.exe
+F:\dotnet\CalAge\bin\Debug\net10.0-windows\CalAge.deps.json
+F:\dotnet\CalAge\bin\Debug\net10.0-windows\CalAge.runtimeconfig.json
+F:\dotnet\CalAge\bin\Debug\net10.0-windows\CalAge.dll
+F:\dotnet\CalAge\bin\Debug\net10.0-windows\CalAge.pdb
+F:\dotnet\CalAge\obj\Debug\net10.0-windows\CalAge.dll
+F:\dotnet\CalAge\obj\Debug\net10.0-windows\refint\CalAge.dll
+F:\dotnet\CalAge\obj\Debug\net10.0-windows\CalAge.pdb
+F:\dotnet\CalAge\obj\Debug\net10.0-windows\CalAge.genruntimeconfig.cache
+F:\dotnet\CalAge\obj\Debug\net10.0-windows\ref\CalAge.dll

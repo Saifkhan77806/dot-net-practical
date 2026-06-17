@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("TemperaturConverter")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("CalAge")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+de24660fab68f7c70b1c2e27374db4a2dfcae2d8")]
-[assembly: System.Reflection.AssemblyProductAttribute("TemperaturConverter")]
-[assembly: System.Reflection.AssemblyTitleAttribute("TemperaturConverter")]
+[assembly: System.Reflection.AssemblyProductAttribute("CalAge")]
+[assembly: System.Reflection.AssemblyTitleAttribute("CalAge")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 [assembly: System.Runtime.Versioning.TargetPlatformAttribute("Windows7.0")]
 [assembly: System.Runtime.Versioning.SupportedOSPlatformAttribute("Windows7.0")]
